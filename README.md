@@ -1,4 +1,4 @@
-- 👋 Hi, I’m RSITYT!
+Hi, I’m RSITYT.
 
 <!---
 RSITYT/RSITYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
